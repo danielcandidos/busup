@@ -6,7 +6,7 @@ O BusUp! tem como objetivo principal facilitar a vida dos usuários do transport
 = Detalhes =
 Ferramentas que compõem o sistema:
   * Android;
-  * Banco de dados: "MySql";
+  * Banco de dados relacional;
 
 
 Equipe:
