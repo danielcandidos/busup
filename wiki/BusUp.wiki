@@ -9,11 +9,9 @@ Ferramentas que compõem o sistema:
   * Banco de dados relacional;
 
 
-Equipe:
-
-Daniel Cândido
-Felix Neto
-Gutenberg Duarte
-José Clodoalves
-Raffael Vieira
-Robson Müller
+|| Equipe: || Daniel Cândido   ||
+||         || Felix Neto       ||
+||         || Gutenberg Duarte ||
+||         || José Clodoalves  ||
+||         || Raffael Vieira   ||
+||         || Robson Müller    ||
