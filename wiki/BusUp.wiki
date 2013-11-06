@@ -1,13 +1,19 @@
-#summary One-sentence summary of this page.
+= Introdução =
 
-= Introduction =
-
-Add your content here.
+O BusUp! tem como objetivo principal facilitar a vida dos usuários do transporte público, pois servirá para informar ao usuário, situações de transito, tal como o tempo de espera do seu ônibus entre outros...
 
 
-= Details =
+= Detalhes =
+Ferramentas que compõem o sistema:
+  * Android;
+  * Banco de dados: MySql;
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+
+Equipe:
+
+Daniel Cândido
+Felix Neto
+Gutenberg Duarte
+José Clodoalves
+Raffael Vieira
+Robson Müller
