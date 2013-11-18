@@ -16,15 +16,12 @@
 </tr>
 
 <tr>
-<td width=80%> <a href="http://code.google.com/p/sistema-hoteleiro-ufrpe/wiki/03RequisitosNaoFuncionais"> Requisitos Não Funcionais. </a>
+<td width=80%> <a href=""> Requisitos Não Funcionais. </a>
 </td>
 </tr>
 
 
-<tr>
-<td width=80%> <a href="https://code.google.com/p/sistema-hoteleiro-ufrpe/wiki/09DiagramaDeClasses"> Diagrama de Classes. </a>
-</td>
-</tr>
+
 
 
 
