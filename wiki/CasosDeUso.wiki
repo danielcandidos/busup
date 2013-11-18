@@ -1,0 +1,23 @@
+||<a href="http://code.google.com/p/busup/">Início</a>||<a href="http://code.google.com/p/busupt/wiki/Desenvolvedores">Desenvolvedores</a>||<a href="http://code.google.com/p/busup/wiki/Descricao">Descrição do Sistema</a>||<a href="http://code.google.com/p/busup/wiki/Requisitos">Requisitos</a>|| *Casos de Uso* ||
+
+---------------------------
+
+==UC001 - xxx==
+
+|| *Objetivo* || xxx. ||
+|| *Descrição* || xxx. ||
+|| *Ator* || xxx. ||
+|| *Prioridade* || xxx. ||
+|| *Pré-condição* || xxx. ||
+|| *Pós-condições* || xxx. ||
+
+==Cenários principais de sucesso==
+
+|| *Usuário* ||
+|| 1 - xxxxxxx . ||
+
+
+|| *Fluxos alternativos* ||
+|| 1.xxxxxx. ||
+
+---------------------------
