@@ -1,0 +1,7 @@
+||<a href="http://code.google.com/p/busup/">Início</a> || *Desenvolvedores* ||<a href="http://code.google.com/p/busup/wiki/Descricao">Descrição do Sistema</a>||<a href="http://code.google.com/p/busup/wiki/Requisitos">Requisitos</a>||<a href="http://code.google.com/p/busup/wiki/CasosDeUso">Casos de Uso</a>||
+
+=Desenvolvedores=
+
+|| <img src="http://footproject.webs.com/fotoDesenvolvedor_danielCandido.jpg" align="left"> || Daniel Cândido (danielcands@gmail.com) ||
+|| <img src="http://footproject.webs.com/fotoDesenvolvedor_joseClodoalves.jpg" align="left"> || José Clodoalves (jrjcsj@gmail.com) ||
+|| <img src="http://footproject.webs.com/fotoDesenvolvedor_raffaelVieira.png" align="left"> || Raffael Vieira (raffaelvramos@gmail.com) ||
