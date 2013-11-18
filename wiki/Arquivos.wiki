@@ -18,7 +18,7 @@
 </tr>
 
 <tr>
-<td width=80%> <a href=""> Requisitos Não Funcionais. </a>
+<td width=80%> <a href="http://code.google.com/p/busup/wiki/RequisitosNaoFuncionais"> Requisitos Não Funcionais. </a>
 </td>
 </tr>
 
