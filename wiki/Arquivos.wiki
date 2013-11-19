@@ -13,7 +13,6 @@
 <td width=80%> <a href="http://code.google.com/p/busup/wiki/CasosDeUso"> Casos de Uso. </a>
 </td>
 </tr>
-</tr>
 
 
 <tr>
