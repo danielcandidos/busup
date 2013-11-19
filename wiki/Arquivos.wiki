@@ -9,19 +9,19 @@
 
 <td width=80%> <a href="https://www.scrumwise.com"> Scrumwise. </a></td>
 
+
+<tr>
+<td width=80%> <a href="http://code.google.com/p/busup/wiki/Requisitos"> Proposta de projeto. </a>
+</td>
+</tr>
+
 <tr>
 <td width=80%> <a href="http://code.google.com/p/busup/wiki/CasosDeUso"> Casos de Uso. </a>
 </td>
 </tr>
 
 <tr>
-<td width=80%> <a href="http://code.google.com/p/busup/wiki/Requisitos?ts=1384785747&updated=Requisitos"> Proposta de projeto. </a>
-</td>
-</tr>
-
-
-<tr>
-<td width=80%> <a href="http://code.google.com/p/busup/wiki/Requisitos?ts=1384785747&updated=Requisitos"> Requisitos Funcionais. </a>
+<td width=80%> <a href="http://code.google.com/p/busup/wiki/Requisitos"> Requisitos Funcionais. </a>
 </td>
 </tr>
 </tr>
