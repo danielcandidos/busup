@@ -6,6 +6,8 @@
 
 <td align = middle width=110 rowspan=4> *Arquivos* </td>
 
+
+<td width=80%> <a href="https://www.scrumwise.com"> Scrumwise. </a></td>
 <td width=80%> <a href="http://code.google.com/p/busup/wiki/CasosDeUso"> Casos de Uso. </a></td>
 
 
