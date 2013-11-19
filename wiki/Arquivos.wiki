@@ -18,7 +18,6 @@
 <td width=80%> <a href="http://code.google.com/p/busup/wiki/Requisitos?ts=1384785747&updated=Requisitos"> Proposta de projeto. </a>
 </td>
 </tr>
-</tr>
 
 
 <tr>
