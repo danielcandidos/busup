@@ -16,23 +16,23 @@
 
 
 <tr>
-<td width=80%> <a href="http://code.google.com/p/busup/wiki/Requisitos"> Proposta de projeto. </a>
+<td width=80%> <a href="https://docs.google.com/document/d/1o7smDTCw1eftvYTfAHoLvpQ0PWoMQgaPDnYikFdcqmo/edit"> Proposta de projeto. </a>
 </td>
 </tr>
 
 <tr>
-<td width=80%> <a href="http://code.google.com/p/busup/wiki/CasosDeUso"> Casos de Uso. </a>
+<td width=80%> <a href="https://docs.google.com/document/d/1TNK7GcJXX-_g9oAMS7w9DdJy1iu3txQBnxir2vyy5vs/edit"> Casos de Uso. </a>
 </td>
 </tr>
 
 <tr>
-<td width=80%> <a href="http://code.google.com/p/busup/wiki/Requisitos"> Requisitos Funcionais. </a>
+<td width=80%> <a href="https://docs.google.com/document/d/1UVZR2IZ8B--_I92kYBAGS68bhUrKxZfTCJjPaEwSGLk/edit"> Requisitos Funcionais. </a>
 </td>
 </tr>
 </tr>
 
 <tr>
-<td width=80%> <a href="http://code.google.com/p/busup/wiki/RequisitosNaoFuncionais"> Requisitos Não Funcionais. </a>
+<td width=80%> <a href="https://docs.google.com/document/d/15QxtxwOsPyOYsSbT6Fe8buCkqmTg7B_RLlCTfm-DxcU/edit"> Requisitos Não Funcionais. </a>
 </td>
 </tr>
 
