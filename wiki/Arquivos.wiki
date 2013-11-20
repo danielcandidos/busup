@@ -1,6 +1,6 @@
 || <a href="http://code.google.com/p/busup/">*Inicio*</a> ||<a href="http://code.google.com/p/busup/wiki/Desenvolvedores">Desenvolvedores</a> ||<a href="http://code.google.com/p/busup/wiki/Descricao">Descrição do Sistema</a>||<a href="http://code.google.com/p/busup/wiki/Arquivos">Arquivos</a>||
 
-<table border="1" cellspacing="5" cellpadding="5" width="595">
+<table border="1" cellspacing="6" cellpadding="6" width="595">
 
 <tr>
 
