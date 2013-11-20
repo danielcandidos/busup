@@ -1,8 +1,0 @@
-|| <a href="http://code.google.com/p/busup/">*Inicio*</a> ||<a href="http://code.google.com/p/busup/wiki/Desenvolvedores">Desenvolvedores</a> ||<a href="http://code.google.com/p/busup/wiki/Descricao">Descrição do Sistema</a>||<a href="http://code.google.com/p/busup/wiki/Arquivos">Arquivos</a>||
-
-
-
-<H1><b>Requisitos Funcionais</b></H1>
-
----------------------------
----------------------------
