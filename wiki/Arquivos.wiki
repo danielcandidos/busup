@@ -4,7 +4,7 @@
 
 <tr>
 
-<td align = middle width=110 rowspan=5> *Arquivos* </td>
+<td align = middle width=110 rowspan=6> *Arquivos* </td>
 
 
 <td width=80%> <a href="https://www.scrumwise.com"> Scrumwise. </a></td>
