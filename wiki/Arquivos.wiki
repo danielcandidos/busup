@@ -16,7 +16,7 @@
 
 
 <tr>
-<td width=80%> <a href="https://docs.google.com/document/d/1o7smDTCw1eftvYTfAHoLvpQ0PWoMQgaPDnYikFdcqmo/edit"> Proposta de projeto. </a>
+<td width=80%> <a href="https://drive.google.com/file/d/0B4EOJhsFMk8xdWJoV0tTVHJHYVE/edit?usp=sharing"> Proposta de projeto. </a>
 </td>
 </tr>
 
