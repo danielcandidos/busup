@@ -1,5 +1,6 @@
 package com.example.busup;
 
+
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.*;
@@ -43,12 +44,28 @@ public class LoginActivity extends Activity {
 			
 			
 		});
+		 
+		 
+		 ctvCadastrar.setOnClickListener (new View.OnClickListener (){
+
+			 public void onClick(View v) {
+				 chamarCadastro();
+				
+			 }
+			 
+		 });
 		
 		
 	
 		
 		Cursor cursor;
 		
+		
+	}
+	
+	public void chamarCadastro() {
+		setContentView(R.layout.activity_cadastro);
+			 
 		
 	}
 	
