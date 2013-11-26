@@ -1,10 +1,10 @@
 || <a href="http://code.google.com/p/busup/">*Inicio*</a> ||<a href="http://code.google.com/p/busup/wiki/Desenvolvedores">Desenvolvedores</a> ||<a href="http://code.google.com/p/busup/wiki/Descricao">Descrição do Sistema</a>||<a href="http://code.google.com/p/busup/wiki/Arquivos">Arquivos</a>||
 
-<table border="1" cellspacing="5" cellpadding="5" width="595">
+<table border="1" cellspacing="6" cellpadding="6" width="595">
 
 <tr>
 
-<td align = middle width=110 rowspan=5> *Arquivos* </td>
+<td align = middle width=110 rowspan=6> *Arquivos* </td>
 
 
 <tr>
