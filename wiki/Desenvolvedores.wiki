@@ -1,6 +1,7 @@
-|| <a href="http://code.google.com/p/busup/">*Inicio*</a> ||<a href="http://code.google.com/p/busup/wiki/Desenvolvedores">Desenvolvedores</a> ||<a href="http://code.google.com/p/busup/wiki/Descricao">Descrição do Sistema</a>||<a href="http://code.google.com/p/busup/wiki/Arquivos">Arquivos</a>||
+|| <a href="http://code.google.com/p/busup/">*Inicio*</a> ||<a href="http://code.google.com/p/busup/wiki/Desenvolvedores">Equipe</a> ||<a href="http://code.google.com/p/busup/wiki/Descricao">Descrição do Sistema</a>||<a href="http://code.google.com/p/busup/wiki/Arquivos">Arquivos</a>||
 
-=Desenvolvedores=
+==Equipe==
+----
 
 || <img src="http://footproject.webs.com/fotoDesenvolvedor_danielCandido.jpg" align="left"> || Daniel Cândido (danielcands@gmail.com) ||
 || <img src="https://dl.dropboxusercontent.com/u/67414138/fotoDesenvolvedor_gutembergduarte.jpg" align="left"> || Gutenberg Duarte (berg.gdnb@gmail.com) ||
