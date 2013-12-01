@@ -46,20 +46,21 @@ public class Usuario {
 		this.senhaUsuario = senhaUsuario;
 	}
 
-	public void criarTabelaUsuario () {
+	public String criarTabelaUsuario () {
 		
-		String sql = "CREATE TABLE IF NOT EXISTS usuario ("+idUsuario+" INTEGER PRIMARY KEY, "+
-				                                            nomeUsuario+" TEXT NOT NULL,"+ 
-				                                            emailUsuario+" TEXT NOT NULL"+
-				                                            loginUsuario+" TEXT NOT NULL"+
+		String sql = "CREATE TABLE IF NOT EXISTS usuario ("+idUsuario+" INTEGER NOT NULL PRIMARY KEY, "+
+				                                            nomeUsuario+" TEXT NOT NULL, "+ 
+				                                            emailUsuario+" TEXT NOT NULL, "+
+				                                            loginUsuario+" TEXT NOT NULL, "+
 				                                            senhaUsuario+" TEXT NOT NULL);";															
 		
+		return sql;
 	}
 	
 	public String inserirUsuario (String nomeUsuario, String emailUsuario, String loginUsuario, String senhaUsuario) {
 		
-		String sql = "INSERT INTO usuario ("+nomeUsuario+", "+emailUsuario+" ,"+loginUsuario+","+senhaUsuario+"" +
-				     "VALUES ("+nomeUsuario+","+emailUsuario+","+loginUsuario+","+senhaUsuario+");";
+		String sql = "INSERT INTO usuario ("+this.nomeUsuario+", "+this.emailUsuario+" ,"+this.loginUsuario+","+this.senhaUsuario+"" +
+				     "VALUES ('"+nomeUsuario+"','"+emailUsuario+"','"+loginUsuario+"','"+senhaUsuario+"');";
 		
 		return sql;
 	}
