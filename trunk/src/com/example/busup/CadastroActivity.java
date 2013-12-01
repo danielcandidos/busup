@@ -6,8 +6,10 @@ import android.app.Activity;
 import android.view.*;
 import android.widget.*;
 import android.app.AlertDialog;
+//import android.content.ContentValues;
+import android.content.Intent;
 import android.database.sqlite.SQLiteDatabase;
-import android.database.Cursor;
+//import android.database.Cursor;
 
 
 public class CadastroActivity extends Activity {
@@ -18,12 +20,14 @@ public class CadastroActivity extends Activity {
 	String nome, email, login, senha;
 	Button btSalvar, btVoltar;
 	SQLiteDatabase database;
+	//LoginActivity loginActivity = new LoginActivity();
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_cadastro);
 		
+		abreBanco();
 		etNome = (EditText) findViewById(R.id.etNome);
 		etEmail= (EditText) findViewById(R.id.etEmail);
 		etLogin = (EditText) findViewById (R.id.etLogin);
@@ -31,35 +35,43 @@ public class CadastroActivity extends Activity {
 		btSalvar = (Button) findViewById (R.id.btSalvar);
 		btVoltar = (Button) findViewById (R.id.btVoltar);
 		
+		/*usuario.setNomeUsuario(etNome.getText().toString());
+        usuario.setEmailUsuario(etEmail.getText().toString());
+        usuario.setLoginUsuario(etLogin.getText().toString());
+        usuario.setSenhaUsuario(etSenha.getText().toString());
+
+	    nome = usuario.getNomeUsuario();
+	   	email = usuario.getEmailUsuario();
+		login = usuario.getLoginUsuario();
+		senha = usuario.getSenhaUsuario();
+			*/		
 		
 		
 		btSalvar.setOnClickListener (new View.OnClickListener(){
 			
+			//String sql = "INSERT INTO usuario (nomeUsuario, emailUsuario ,loginUsuario, senhaUsuario) VALUES ('"+nome+"','"+email+"','"+login+"','"+senha+"');";
 			public void onClick (View v) {
-				
-				
-				usuario.setNomeUsuario(etNome.getText().toString());
-				usuario.setEmailUsuario(etEmail.getText().toString());
-				usuario.setLoginUsuario(etLogin.getText().toString());
-				usuario.setSenhaUsuario(etSenha.getText().toString());
-				
-				nome = usuario.getNomeUsuario();
-				email = usuario.getEmailUsuario();
-				login = usuario.getLoginUsuario();
-				senha = usuario.getSenhaUsuario();
-				
-				try{
-					database.execSQL(usuario.inserirUsuario(nome, email, login, senha));
-					mensagemAlerta("Cadastro","Cadastro efetuado com sucesso");
-				}catch(Exception ex) {
-					mensagemAlerta("Cadastro","Erro ao efetuar cadastro:"+ex.getMessage());
-					
-				}
-			
+						///	loginActivity.abreBanco();
+
+                	try{
+                		    nome = etNome.getText().toString();
+                			email = etEmail.getText().toString();
+                			login = etLogin.getText().toString();
+                			senha = etSenha.getText().toString();
+                			
+                		    
+                            String sql = "INSERT INTO usuario (nomeUsuario, emailUsuario, loginUsuario, senhaUsuario) VALUES ('"+nome+"','"+email+"','"+login+"','"+senha+"');";
+                    		//String sql = usuario.inserirUsuario(nome, email, login, senha);
+                			database.execSQL(sql);
+                			mensagemAlerta("Cadastro","Cadastro efetuado com sucesso");
+                }	catch(Exception ex) {
+                			mensagemAlerta("Cadastro","Erro ao efetuar cadastro:"+ex.getMessage());
+                			//mensagemAlerta ("Teste",sql);
+                        
+                }
 				
 			}
-			
-			
+				
 		});
 		
 		
@@ -67,7 +79,7 @@ public class CadastroActivity extends Activity {
 			
 			public void onClick (View v) {
 				mensagemAlerta("Teste","O clique ta funcionando");
-				//chamarLogin ();
+				chamarLogin ();
 			
 			}
 			
@@ -77,11 +89,36 @@ public class CadastroActivity extends Activity {
 		
 		
 		}
+	
+	public void mensagemExibir (String titulo, String mensagem) {
+		AlertDialog.Builder caixaAlerta = new AlertDialog.Builder(CadastroActivity.this);
+		caixaAlerta.setTitle(titulo);
+		caixaAlerta.setMessage(mensagem);
+		caixaAlerta.setNeutralButton("OK",null);
+		caixaAlerta.show();
 		
+	}
+	
+	public void abreBanco () {
+		try{
+			String name = "BusUpdb";
+	        database = openOrCreateDatabase(name, SQLiteDatabase.CREATE_IF_NECESSARY, null);
+			mensagemExibir("Teste", "Banco Criado com sucesso");
+			//database.close();
+			
+		
+		}catch(Exception ex) {
+			mensagemExibir("Teste","Erro ao criar banco: "+ex.getMessage());
+			
+		}
+		
+		
+	}
 	
 	
 	public void chamarLogin () {
-		setContentView(R.layout.activity_login);
+		Intent intent = new Intent(this,LoginActivity.class);
+		startActivity(intent);
 		
 	}
 	
