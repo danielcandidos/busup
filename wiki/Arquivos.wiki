@@ -8,7 +8,7 @@
 
 
 <tr>
-<td width=80%> <a href="https://code.google.com/p/busup/wiki/ScrumySprintsTaskboards">Scrumy (Taskboard). </a>
+<td width=80%> <a href="http://scrumy.com/busup-sprint2">Scrumy (Taskboard). </a>
 </td>
 </tr>
 
