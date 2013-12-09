@@ -3,8 +3,8 @@
     <th height="240" colspan="7" scope="col"><img src="http://imageshack.com/a/img842/2289/5phf.png" width="830" height="240" alt="Top" /></th>
   </tr>
   <tr>
-    <th height="46" scope="row"><a href="https://code.google.com/p/busup/"><img src="http://img832.imageshack.us/img832/1817/homespx.png" alt="Home" width="99" height="46" /></a></th>
-    <td height="46"><a href="http://code.google.com/p/busup/wiki/Desenvolvedores"><img src="http://img545.imageshack.us/img545/117/equipens.png" alt="Equipe" width="99" height="46" /></a></td>
+    <th height="46" scope="row"><a href="https://code.google.com/p/busup/"><img src="http://img266.imageshack.us/img266/8708/homens.png" alt="Home" width="99" height="46" /></a></th>
+    <td height="46"><a href="http://code.google.com/p/busup/wiki/Desenvolvedores"><img src="http://img854.imageshack.us/img854/8216/equipesv.png" alt="Equipe" width="99" height="46" /></a></td>
     <td height="46"><a href="https://code.google.com/p/busup/wiki/Descricao"><img src="http://img541.imageshack.us/img541/6223/descricaons.png" alt="Descrição" width="125" height="46" /></a></td>
     <td height="46"><a href=""><img src="http://img33.imageshack.us/img33/716/requisitosns.png" alt="Requisitos" width="129" height="46" /></a></td>
     <td width="142" height="46"><a href=""><img src="http://img809.imageshack.us/img809/6048/casosns.png" alt="Casos de uso" width="142" height="46" /></a></td>
