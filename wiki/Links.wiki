@@ -19,6 +19,6 @@
 
   </tr>
 </table>
-<a href="https://www.facebook.com/pages/BusUp/170693809795974"><img src="http://imageshack.com/a/img849/7549/4aks.png" alt="Facebook">/a>
+<a href="https://www.facebook.com/pages/BusUp/170693809795974"><img src="http://imageshack.com/a/img849/7549/4aks.png" alt="Facebook">
 
-<a href="https://twitter.com/BusUp_pe"><img src="http://imageshack.com/a/img841/5743/tqpa.png" alt="Twitter">/a>
+<a href="https://twitter.com/BusUp_pe"><img src="http://imageshack.com/a/img841/5743/tqpa.png" alt="Twitter">
