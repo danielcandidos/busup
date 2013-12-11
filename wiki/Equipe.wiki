@@ -19,4 +19,4 @@
 
   </tr>
 </table>
-<img src="http://imageshack.com/a/img809/9550/9nxe.png" alt="Sistema em desenvolvimento, para interação de usuários de ônibus, por alunos de BSI da UFRPE para a disciplina de Análise e Projeto de Sistemas de Informação.">
+<img src="http://imageshack.com/a/img809/9156/zf0u.png" alt="Equipe">
