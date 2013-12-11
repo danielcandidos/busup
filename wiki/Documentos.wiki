@@ -19,8 +19,8 @@
 
   </tr>
 </table>
-<a href="https://www.facebook.com/pages/BusUp/170693809795974"><img src="http://imageshack.com/a/img189/818/deo9.png" alt="Proposta de projeto">
-<a href="https://www.facebook.com/pages/BusUp/170693809795974"><img src="http://imageshack.com/a/img9/7429/o7up.png" alt="Casos de uso">
-<a href="https://www.facebook.com/pages/BusUp/170693809795974"><img src="http://imageshack.com/a/img801/6559/7oi7.png" alt="Diagramas">
-<a href="https://www.facebook.com/pages/BusUp/170693809795974"><img src="http://imageshack.com/a/img823/5292/fbjj.png" alt="Requisitos Funcionais">
-<a href="https://twitter.com/BusUp_pe"><img src="http://imageshack.com/a/img577/3082/irtb.png" alt="Requisitos Não Funcionais">
+<a href="https://drive.google.com/file/d/0B4EOJhsFMk8xdWJoV0tTVHJHYVE/edit?usp=sharing"><img src="http://imageshack.com/a/img189/818/deo9.png" alt="Proposta de projeto">
+<a href="https://docs.google.com/document/d/1TNK7GcJXX-_g9oAMS7w9DdJy1iu3txQBnxir2vyy5vs/edit"><img src="http://imageshack.com/a/img9/7429/o7up.png" alt="Casos de uso">
+<a href="https://docs.google.com/document/d/1Nt_tzUlK_bNwgnmqKD20Q-RxG_YYP3fY4kZNUEf5KOg/edit?usp=sharing"><img src="http://imageshack.com/a/img801/6559/7oi7.png" alt="Diagramas">
+<a href="https://docs.google.com/document/d/1UVZR2IZ8B--_I92kYBAGS68bhUrKxZfTCJjPaEwSGLk/edit"><img src="http://imageshack.com/a/img823/5292/fbjj.png" alt="Requisitos Funcionais">
+<a href="https://docs.google.com/document/d/15QxtxwOsPyOYsSbT6Fe8buCkqmTg7B_RLlCTfm-DxcU/edit"><img src="http://imageshack.com/a/img577/3082/irtb.png" alt="Requisitos Não Funcionais">
