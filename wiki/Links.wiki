@@ -19,4 +19,5 @@
 
   </tr>
 </table>
-<img src="http://imageshack.com/a/img534/5863/96mh.png" alt="Equipe">
+<img src="http://imageshack.com/a/img849/7549/4aks.png" alt="Facebook">
+<img src="http://imageshack.com/a/img841/5743/tqpa.png" alt="Twitter">
