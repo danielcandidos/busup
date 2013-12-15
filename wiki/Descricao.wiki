@@ -1,6 +1,7 @@
 <table width="830" height="289" border="0" align="left" cellpadding="0" cellspacing="0" style="margin: 0px; padding: 0px;">
   <tr>
-    <th height="240" colspan="7" scope="col"><img src="http://imageshack.com/a/img842/2289/5phf.png" width="830" height="240" alt="Top" /></th></tr>
+    <th height="240" colspan="7" scope="col"><img src="http://imageshack.com/a/img842/2289/5phf.png" width="830" height="240" alt="Top" /></th>
+  </tr>
   <tr>
  <th height="46" scope="row"><a href="https://code.google.com/p/busup/"><img src="http://imageshack.com/a/img713/1977/aj6y.png" alt="Início" width="93" height="49" /></a></th>
 
