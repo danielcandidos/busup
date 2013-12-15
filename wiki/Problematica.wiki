@@ -5,17 +5,17 @@
   <tr>
     <th height="46" scope="row"><a href="https://code.google.com/p/busup/"><img src="http://imageshack.com/a/img713/1977/aj6y.png" alt="Início" width="93" height="46" /></a></th>
 
-    <td height="46"><a href="https://code.google.com/p/busup/wiki/Descricao"><img src="http://imageshack.com/a/img585/4228/fhrs.png" alt="Descrição" width="139" height="49" /></a></td>
+    <td height="46"><a href="https://code.google.com/p/busup/wiki/Descricao"><img src="http://imageshack.com/a/img585/4228/fhrs.png" alt="Descrição" width="139" height="46" /></a></td>
 
-    <td height="46"><a href="https://code.google.com/p/busup/wiki/Problematica"><img src="http://imageshack.com/a/img197/7789/wubt.png" alt="Problemática"width="175" height="49"  /></a></td>
+    <td height="46"><a href="https://code.google.com/p/busup/wiki/Problematica"><img src="http://imageshack.com/a/img197/7789/wubt.png" alt="Problemática"width="175" height="46"  /></a></td>
 
-    <td height="46"><a href="https://code.google.com/p/busup/wiki/Screenshoots"><img src="http://imageshack.com/a/img850/9389/4cga.png" alt="Screenshots" width="162" height="49"  /></a></td>
+    <td height="46"><a href="https://code.google.com/p/busup/wiki/Screenshoots"><img src="http://imageshack.com/a/img850/9389/4cga.png" alt="Screenshots" width="162" height="46"  /></a></td>
 
-    <td height="46"><a href="https://code.google.com/p/busup/wiki/Links"><img src="http://imageshack.com/a/img15/9885/502w.png" alt="Links" width="91" height="49"    /></a></td>
+    <td height="46"><a href="https://code.google.com/p/busup/wiki/Links"><img src="http://imageshack.com/a/img15/9885/502w.png" alt="Links" width="91" height="46"    /></a></td>
 
-    <td height="46"><a href="https://code.google.com/p/busup/wiki/Documentos"><img src="http://imageshack.com/a/img7/4894/ynyf.png" alt="Documentos" width="169" height="49"  /></a></td>
+    <td height="46"><a href="https://code.google.com/p/busup/wiki/Documentos"><img src="http://imageshack.com/a/img7/4894/ynyf.png" alt="Documentos" width="169" height="46"  /></a></td>
 
-    <td height="46"><a href="https://code.google.com/p/busup/wiki/Equipe"><img src="http://imageshack.com/a/img811/7742/c5vb.png" alt="Equipe" width="117" height="49"  /></a></td>
+    <td height="46"><a href="https://code.google.com/p/busup/wiki/Equipe"><img src="http://imageshack.com/a/img811/7742/c5vb.png" alt="Equipe" width="117" height="46"  /></a></td>
 
   </tr>
 </table>
