@@ -7,9 +7,9 @@
 
     <td height="46"><a href="https://code.google.com/p/busup/wiki/Descricao"><img src="http://imageshack.com/a/img585/4228/fhrs.png" alt="Descrição" width="127" height="46" /></a></td>
 
-    <td height="46"><a href="https://code.google.com/p/busup/wiki/Problematica"><img src="http://imageshack.com/a/img197/7789/wubt.png" alt="Problemática"width="163" height="46"  /></a></td>
+    <td height="46"><a href="https://code.google.com/p/busup/wiki/Problematica"><img src="http://imageshack.com/a/img197/7789/wubt.png" alt="Problemática"width="161" height="46"  /></a></td>
 
-    <td height="46"><a href="https://code.google.com/p/busup/wiki/Screenshoots"><img src="http://imageshack.com/a/img850/9389/4cga.png" alt="Screenshots" width="150" height="46"  /></a></td>
+    <td height="46"><a href="https://code.google.com/p/busup/wiki/Screenshoots"><img src="http://imageshack.com/a/img850/9389/4cga.png" alt="Screenshots" width="148" height="46"  /></a></td>
 
     <td height="46"><a href="https://code.google.com/p/busup/wiki/Links"><img src="http://imageshack.com/a/img15/9885/502w.png" alt="Links" width="79" height="46"    /></a></td>
 
