@@ -15,8 +15,8 @@
 
     <td height="46"><a href="https://code.google.com/p/busup/wiki/Documentos"><img src="http://imageshack.com/a/img7/4894/ynyf.png" alt="Documentos" width="169" height="49"  /></a></td>
 
-    <td height="46"><a href="https://code.google.com/p/busup/wiki/Equipe"><img src="http://imageshack.com/a/img811/7742/c5vb.png" alt="Equipe" width="117" height="49"  /></a></td>
-
+    <td height="46"><a href="https://code.google.com/p/busup/wiki/Equipe"><img src="http://imageshack.com/a/img811/7742/c5vb.png" alt="Equipe" width="117" height="49"  /></a>
+    </td>
 </table>
 
 <img src="http://imageshack.com/a/img21/3828/c7qu.png" alt="Este projeto visa o desenvolvimento de um Sistema que minimize os problemas de Mobilidade Urbana, enfrentados por grande parte da população brasileira usuária de transporte público. Busup fornecerá ao usuário informações em tempo real sobre o percurso, trânsito e lotação da condução, para que os usuários possam organizar suas agendas de uma forma mais produtivas, evitando que passem horas esperando a condução na parada.">
