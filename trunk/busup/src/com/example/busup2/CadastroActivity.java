@@ -1,6 +1,7 @@
 package com.example.busup2;
 
-import db.Usuario;
+import com.example.busup2.entities.Usuario;
+
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.*;
