@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name"> BusUp </string>
+    <string name="action_settings"> Settings </string>
+    <string name="btEntrar"> Entrar </string>
+    <string name="tvSenhaLogin"> Senha </string>
+    <string name="tvLogin"> Login </string>
+    <string name="tvAcessoRedes"> Acessar com: </string>
+    <string name="ctvCadastrar"> Cadastre-se </string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_cadastro">CadastroActivity</string>
+    <string name="tvCadastro">Cadastro</string>
+    <string name="tvNome"> Nome</string>
+    <string name="tvEmail"> Email</string>
+    <string name="tvSenha"> Senha</string>
+    <string name="btSalvar"> Salvar</string>
+    <string name="btVoltar"> Cancelar</string>
+    <string name="title_activity_mapa">MapaActivity</string>
+    <string name="btComentar">Comentar</string>
+    <string name="btLocalizar">Localizar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_facebook">FacebookActivity</string>
+   <!--   <string name="descBtLocalizar">Localizar</string>-->
+    <string name="descBtComentar">Comentar</string>
+    <string name="descBtLocalizar">Localizar</string>
+    <string name="descBtFeed">Feed</string>
+    <string name="descBtPerfil">Perfil</string>
+    <string name="descImg1"> Imagem Teste</string>
+    <string name="title_activity_mapa_teste">MapaTesteActivity</string>
+
+</resources>

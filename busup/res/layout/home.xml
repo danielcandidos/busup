@@ -1,0 +1,85 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"    
+    android:paddingLeft="0dp" >
+    <ScrollView
+        android:layout_width="match_parent"
+    	android:layout_height="match_parent">
+    	<RelativeLayout
+    	    android:layout_width="match_parent"
+    		android:layout_height="wrap_content"
+    		android:background="@drawable/fundo">
+		
+		<ImageButton
+	        android:id="@+id/btlocalizar"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_above="@+id/btcomentar"
+	        android:layout_alignParentRight="true"
+	        android:layout_marginRight="24dp"
+	        android:background="#D3D3D3"
+	        android:src="@drawable/imagem1" 
+	        android:contentDescription="@string/descBtLocalizar"/>
+		
+		<ImageButton
+	        android:id="@+id/btcomentar"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_below="@+id/btfeed"
+	        android:layout_marginRight="20dp"
+	        android:layout_marginTop="32dp"
+	        android:layout_toLeftOf="@+id/btperfil"
+	        android:background="#D3D3D3"
+	        android:src="@drawable/imagem2" 
+	        android:contentDescription="@string/descBtComentar"/>
+		
+	    <ImageButton
+	        android:id="@+id/btperfil"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_alignLeft="@+id/btlocalizar"
+	        android:layout_alignTop="@+id/btcomentar"
+	        android:layout_margin="0dp"
+	        android:layout_marginTop="22dp"
+	        android:background="#D3D3D3"
+	        android:src="@drawable/imagem4" 
+	        android:contentDescription="@string/descBtPerfil"/>
+	    
+		<ImageButton
+	        android:id="@+id/bt5"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_below="@+id/btcomentar"
+	        android:layout_marginRight="20dp"
+	        android:layout_marginTop="32dp"
+	        android:layout_toLeftOf="@+id/bt6"
+	        android:background="#D3D3D3"
+	        android:contentDescription="@string/descBtComentar" />
+	    
+	    <ImageButton
+	        android:id="@+id/bt6"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_alignLeft="@+id/btperfil"
+	        android:layout_alignTop="@+id/bt5"
+	        android:layout_margin="0dp"
+	        android:layout_marginTop="22dp"
+	        android:background="#D3D3D3"
+	        android:src="@drawable/imagem4" 
+	        android:contentDescription="@string/descBtComentar"/>
+
+	    <ImageButton
+	        android:id="@+id/btfeed"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_alignLeft="@+id/btcomentar"
+	        android:layout_alignParentTop="true"
+	        android:layout_marginTop="116dp"
+	        android:background="#D3D3D3"
+	        android:src="@drawable/imagem3" 
+	        android:contentDescription="@string/descBtFeed"/>
+
+	    </RelativeLayout>
+    </ScrollView>
+    
+</RelativeLayout>
