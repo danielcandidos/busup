@@ -1,4 +1,4 @@
-package db;
+package com.example.busup2.entities;
 
 public class Usuario {
 	
