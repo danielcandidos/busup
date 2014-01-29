@@ -3,6 +3,8 @@
 if (!defined('BASEPATH'))
     exit('No direct script access allowed');
 
+
+
 class DoctrineTools extends CI_Controller {  
 
     //Doctrine EntityManager
@@ -32,7 +34,7 @@ class DoctrineTools extends CI_Controller {
                     $this->em->getClassMetadata('models\Entity\Conexao')
                 );
                 
-                $tool->dropSchema($classes);
+                //$tool->dropSchema($classes);
                 //$tool->createSchema($classes);
                 $tool->updateSchema($classes);
 

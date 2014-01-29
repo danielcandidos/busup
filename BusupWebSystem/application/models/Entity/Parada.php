@@ -1,31 +1,45 @@
 <?php
+
 namespace models\Entity;
 
 /**
  * @Entity
  * @InheritanceType("SINGLE_TABLE")
- * @DiscriminatorColumn(name="discr", type="string")
- * @DiscriminatorMap({"person" = "Parada", "employee" = "Terminal"})
+ * @DiscriminatorColumn(name="tipo", type="string")
+ * @DiscriminatorMap({"parada" = "Parada", "terminal" = "Terminal"})
  * @Table(name="Parada") 
  */
-class Parada extends Entidade{
+class Parada extends Entidade {
+
     /**
      * @Column(type="float")
      */
     protected $latitude;
+
     /**
      * @Column(type="float")
      */
     protected $longitude;
-    /**
-     * @Column(type="integer")
-     */
-    protected $numero;
+
     /**
      * @Column(type="string")
      */
-    protected $endereco;  
+    protected $numero;
 
+    /**
+     * @Column(type="string", nullable=true)
+     */
+    protected $rua;
+
+    /**
+     * @Column(type="string",nullable=true)
+     */
+    protected $bairro;
+
+    /**
+     * @Column(type="string", nullable=true)
+     */
+    protected $descricao;
 
     public function getLatitude() {
         return $this->latitude;
@@ -39,8 +53,16 @@ class Parada extends Entidade{
         return $this->numero;
     }
 
-    public function getEndereco() {
-        return $this->endereco;
+    public function getRua() {
+        return $this->rua;
+    }
+
+    public function getBairro() {
+        return $this->bairro;
+    }
+
+    public function getDescricao() {
+        return $this->descricao;
     }
 
     public function setLatitude($latitude) {
@@ -55,12 +77,16 @@ class Parada extends Entidade{
         $this->numero = $numero;
     }
 
-    public function setEndereco($endereco) {
-        $this->endereco = $endereco;
+    public function setRua($rua) {
+        $this->rua = $rua;
     }
 
+    public function setBairro($bairro) {
+        $this->bairro = $bairro;
+    }
 
-
+    public function setDescricao($descricao) {
+        $this->descricao = $descricao;
+    }
 
 }
-
