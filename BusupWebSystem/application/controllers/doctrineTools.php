@@ -28,10 +28,13 @@ class DoctrineTools extends CI_Controller {
             try {
                 $tool = new \Doctrine\ORM\Tools\SchemaTool($this->em);
 
-                $classes = array(                    
+                $classes = array(       
+                    $this->em->getClassMetadata('models\Entity\Linha'),
+                    $this->em->getClassMetadata('models\Entity\Itinerario'),
                     $this->em->getClassMetadata('models\Entity\Parada'),
                     $this->em->getClassMetadata('models\Entity\Terminal'),
-                    $this->em->getClassMetadata('models\Entity\Conexao')
+                    $this->em->getClassMetadata('models\Entity\Conexao'),
+                    $this->em->getClassMetadata('models\Entity\Percurso')
                 );
                 
                 //$tool->dropSchema($classes);
