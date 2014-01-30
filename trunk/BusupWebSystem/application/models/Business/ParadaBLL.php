@@ -1,5 +1,7 @@
 <?php
 
+namespace models\Business;
+
 use models\Business\BaseBLL;
 
 class ParadaBLL extends BaseBLL{
