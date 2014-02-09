@@ -25,15 +25,8 @@
 <a href="https://docs.google.com/document/d/1UVZR2IZ8B--_I92kYBAGS68bhUrKxZfTCJjPaEwSGLk/edit"><img src="http://imageshack.com/a/img823/5292/fbjj.png" alt="Requisitos Funcionais">
 <a href="https://docs.google.com/document/d/15QxtxwOsPyOYsSbT6Fe8buCkqmTg7B_RLlCTfm-DxcU/edit"><img src="http://imageshack.com/a/img577/3082/irtb.png" alt="Requisitos Não Funcionais">
 <a href="https://docs.google.com/document/d/1DlPbjs-Ok1mnkFxhBf4zF6fx3c_eoKRBTd8i0qve8TE/edit"><img src="http://imageshack.com/a/img13/1323/jqak.png" alt="Questões sobre empreendedorismo">
-
-==<a href="https://docs.google.com/document/d/10lVYt031S6QXIyPXrrpEQQRhwScWpfM6pskUQKfifFA/edit?usp=sharing"> Deployment Model </a>==
-
-==<a href="https://docs.google.com/document/d/1ZQEmwJXNcWyVgaZne_LpGtYV1Nb-H_XLvmIgVXCc0ro/edit?usp=sharing"> Plano de Projeto </a>==
-
-==<a href="https://docs.google.com/spreadsheet/ccc?key=0AoEOJhsFMk8xdDd4MldCdmgtc2FQdG9aMVJWcGpnWkE&usp=sharing"> SOA applicability document </a>==
-
-==<a href="https://docs.google.com/document/d/1Ub7PFgx0Db-BrM0tEQwk3i7J9QBYbl9RxYy8sP4IqfQ/edit?usp=sharing"> Tests Results </a>==
-
-==<a href="https://docs.google.com/document/d/1GUjCgek_MnPcLDCwnd7_hsaUSA2HWLI9KlUg6KHAADw/edit?usp=sharing"> Testing and QA plan </a>==
-
-==<a href="https://docs.google.com/document/d/1ZnyzZh3ESlT2v0DuXuvRVM3hqRIxnwmsS8dvGtwf4VM/edit?usp=sharing"> Usage Model </a>==
+<a href="https://docs.google.com/document/d/1DlPbjs-Ok1mnkFxhBf4zF6fx3c_eoKRBTd8i0qve8TE/edit"><img src="http://imageshack.com/a/img404/7580/xp5g.jpg" alt="Análise de ROI">
+<a href="https://docs.google.com/document/d/1DlPbjs-Ok1mnkFxhBf4zF6fx3c_eoKRBTd8i0qve8TE/edit"><img src="http://imageshack.com/a/img691/5883/ml0j.jpg" alt="SOA Vision and Scope">
+<a href="https://docs.google.com/document/d/1DlPbjs-Ok1mnkFxhBf4zF6fx3c_eoKRBTd8i0qve8TE/edit"><img src="http://imageshack.com/a/img835/4558/5jta.jpg" alt="SOA Strategy">
+<a href="https://docs.google.com/document/d/1DlPbjs-Ok1mnkFxhBf4zF6fx3c_eoKRBTd8i0qve8TE/edit"><img src="http://imageshack.com/a/img845/9937/o982.jpg" alt="Plano de Teste">
+<a href="https://docs.google.com/document/d/1DlPbjs-Ok1mnkFxhBf4zF6fx3c_eoKRBTd8i0qve8TE/edit"><img src="http://imageshack.com/a/img823/4581/nn3j.jpg" alt="SOA Applicability Document;">
