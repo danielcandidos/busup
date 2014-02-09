@@ -15,7 +15,7 @@
 
     <td height="46"><a href="https://code.google.com/p/busup/wiki/Documentos"><img src="http://imageshack.com/a/img7/4894/ynyf.png" alt="Documentos" width="155" height="46"  /></a></td>
 
-    <td height="46"><a href="https://code.google.com/p/busup/wiki/Equipe"><img src="http://imageshack.com/a/img811/7742/c5vb.png" alt="Equipe" width="103" height="46"  /></a></td>
+    <td height="46"><a href="https://code.google.com/p/busup/wiki/Equipe"><img src="http://imageshack.com/a/img691/2577/t67r.png" alt="Equipe" width="103" height="46"  /></a></td>
 
   </tr>
 </table>
