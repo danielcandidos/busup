@@ -31,6 +31,5 @@
 <a href="https://docs.google.com/spreadsheet/ccc?key=0AoEOJhsFMk8xdDd4MldCdmgtc2FQdG9aMVJWcGpnWkE&usp=sharing"><img src="http://imageshack.com/a/img827/4494/m34b.jpg" alt="SOA Applicability Document;">
 <a href="https://docs.google.com/document/d/1ZQEmwJXNcWyVgaZne_LpGtYV1Nb-H_XLvmIgVXCc0ro/edit?usp=sharing"><img src="http://imageshack.com/a/img401/4606/5b8w.jpg" alt="Project Plan">
 <a href="https://docs.google.com/document/d/1GUjCgek_MnPcLDCwnd7_hsaUSA2HWLI9KlUg6KHAADw/edit?usp=sharing"><img src="http://imageshack.com/a/img824/683/hb50.jpg" alt="Testing and QA Plan">
-<a href="https://docs.google.com/document/d/1Ub7PFgx0Db-BrM0tEQwk3i7J9QBYbl9RxYy8sP4IqfQ/edit?usp=sharing"><img src="http://imageshack.com/a/img844/6933/n7hx.jpg" alt="Test Results">
 <a href="https://docs.google.com/document/d/16XNO10o72bOr0u5Y0KRva25-yHpUeT6M0RrOMcqicqs/edit?usp=sharing"><img src="http://imageshack.com/a/img819/4940/4gdo.jpg" alt="Deployment Model">
 <a href="https://docs.google.com/document/d/1ZnyzZh3ESlT2v0DuXuvRVM3hqRIxnwmsS8dvGtwf4VM/edit?usp=sharing"><img src="http://imageshack.com/a/img819/9026/957m.jpg" alt="Usage Model">
