@@ -20,7 +20,7 @@
   </tr>
 </table>
 
-<img src="http://imageshack.com/a/img21/3828/c7qu.png" alt="Este projeto visa o desenvolvimento de um Sistema que minimize os problemas de Mobilidade Urbana, enfrentados por grande parte da população brasileira usuária de transporte público. Busup fornecerá ao usuário informações em tempo real sobre o percurso, trânsito e lotação da condução, para que os usuários possam organizar suas agendas de uma forma mais produtivas, evitando que passem horas esperando a condução na parada.">
+<img src="http://imageshack.com/a/img833/6197/cvuv.png" alt="Descrição">
 <a href="https://docs.google.com/file/d/0B4EOJhsFMk8xdWJoV0tTVHJHYVE/edit"><img src="http://imageshack.com/a/img841/5163/tioi.png" alt="Proposta do projeto">
 
 
