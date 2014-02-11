@@ -33,3 +33,4 @@
 <a href="https://docs.google.com/document/d/1GUjCgek_MnPcLDCwnd7_hsaUSA2HWLI9KlUg6KHAADw/edit?usp=sharing"><img src="http://imageshack.com/a/img824/683/hb50.jpg" alt="Testing and QA Plan">
 <a href="https://docs.google.com/document/d/16XNO10o72bOr0u5Y0KRva25-yHpUeT6M0RrOMcqicqs/edit?usp=sharing"><img src="http://imageshack.com/a/img819/4940/4gdo.jpg" alt="Deployment Model">
 <a href="https://docs.google.com/document/d/1ZnyzZh3ESlT2v0DuXuvRVM3hqRIxnwmsS8dvGtwf4VM/edit?usp=sharing"><img src="http://imageshack.com/a/img819/9026/957m.jpg" alt="Usage Model">
+<a href="https://docs.google.com/document/d/1RGA77MuUfgQelH_D7xIBEcD5kRkkN10e13KY2l54dns/edit"><img src="http://imageshack.com/a/img823/8126/51v7.jpg" alt="License">
