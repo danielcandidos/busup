@@ -19,4 +19,4 @@
 
   </tr>
 </table>
-<img src="http://imageshack.com/a/img691/2577/t67r.png" alt="Equipe">
+<img src="https://dl.dropboxusercontent.com/u/67414138/Equipe.png" alt="Equipe">
