@@ -28,7 +28,7 @@
 <a href="https://docs.google.com/document/d/1PSPpt68JCkbl0-BLsUZccd7SKZmtLcpivDiUM43zliQ/edit?usp=sharing"><img src="http://imageshack.com/a/img594/1456/vmze.jpg" alt="SOA Vision and Scope">
 <a href="https://docs.google.com/document/d/1-g1QDdvz-thkNQXE64HkkgEMLfvJ-mGtOtR0URMEtco/edit?usp=sharing"><img src="http://imageshack.com/a/img835/4558/5jta.jpg" alt="SOA Strategy">
 <a href="https://docs.google.com/document/d/1M7GkAjPsKHp6Hff6l-QTjCmQPueuCHnbTk1gG7ge3qs/edit?usp=sharing"><img src="http://imageshack.com/a/img845/9937/o982.jpg" alt="Plano de Teste">
-<a href="https://docs.google.com/spreadsheet/ccc?key=0AoEOJhsFMk8xdDd4MldCdmgtc2FQdG9aMVJWcGpnWkE&usp=sharing"><img src="http://imageshack.com/a/img827/4494/m34b.jpg" alt="SOA Applicability Document;">
+<a href="https://drive.google.com/file/d/0B4EOJhsFMk8xWFBqMFFrckkyUm8/edit?usp=sharing"><img src="http://imageshack.com/a/img827/4494/m34b.jpg" alt="SOA Applicability Document;">
 <a href="https://docs.google.com/document/d/1ZQEmwJXNcWyVgaZne_LpGtYV1Nb-H_XLvmIgVXCc0ro/edit?usp=sharing"><img src="http://imageshack.com/a/img401/4606/5b8w.jpg" alt="Project Plan">
 <a href="https://docs.google.com/document/d/1GUjCgek_MnPcLDCwnd7_hsaUSA2HWLI9KlUg6KHAADw/edit?usp=sharing"><img src="http://imageshack.com/a/img824/683/hb50.jpg" alt="Testing and QA Plan">
 <a href="https://docs.google.com/document/d/16XNO10o72bOr0u5Y0KRva25-yHpUeT6M0RrOMcqicqs/edit?usp=sharing"><img src="http://imageshack.com/a/img819/4940/4gdo.jpg" alt="Deployment Model">
